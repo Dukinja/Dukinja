@@ -11,6 +11,7 @@
   <a href="https://www.microsoft.com/en-us/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Game%20Guardian-5C2D91?style=for-the-badge&logo=game-guardian&logoColor=white">
+  <img src="https://img.shields.io/badge/HEXbEditing-4D4D4D?style=for-the-badge&logo=hex&logoColor=white">
 </p>
 
 ## 👨‍💻 About Me
