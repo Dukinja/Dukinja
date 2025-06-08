@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Game%20Guardian-5C2D91?style=for-the-badge&logo=game-guardian&logoColor=white">
   <img src="https://img.shields.io/badge/HEX_Editing-4D4D4D?style=for-the-badge&logo=hex&logoColor=white">
   <img src="https://img.shields.io/badge/Android_NDK-0078D6?style=for-the-badge&logo=android-ndk&logoColor=white">
+  <img src="https://img.shields.io/badge/Smali_Editing-90E59A?style=for-the-badge&logo=smali&logoColor=black">
 </p>
 
 ## 👨‍💻 About Me
