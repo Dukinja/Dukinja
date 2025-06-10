@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/HEX_Editing-4D4D4D?style=for-the-badge&logo=hex&logoColor=white">
   <img src="https://img.shields.io/badge/Android_NDK-0078D6?style=for-the-badge&logo=android-ndk&logoColor=white">
   <img src="https://img.shields.io/badge/Smali_Editing-90E59A?style=for-the-badge&logo=smali&logoColor=black">
+  <img src="https://img.shields.io/badge/Networking-F05032?style=for-the-badge&logo=socket&logoColor=white">
 </p>
 
 ## 👨‍💻 About Me
@@ -24,4 +25,10 @@ I know C++, Lua, Hex Editing, Smali Editing and Reverse Engineering.
 I'm obsessed with Networking. 
 I love making Multiplayer games and Mods. 
 
-I Mod Swordigo, GTA and other games. 
+I am also interested in Electronics and Computer Hardware. 
+
+I Mod Swordigo, GTA and other games.
+
+I love Football. 
+I'm a CB and a CM.
+I also play as a CAM and a LB. 
