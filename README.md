@@ -6,7 +6,6 @@
   <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black"></a>
   <a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/IDA%20Pro-283346?style=for-the-badge&logoColor=white"></a>
   <a href="https://cheatengine.org/"><img src="https://img.shields.io/badge/Cheat%20Engine-000000?style=for-the-badge&logoColor=white"></a> 
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.microsoft.com/en-us/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"></a>
@@ -20,7 +19,7 @@
 ## 👨‍💻 About Me
 
 Hi I'm a Developer and Modder. 
-I know C++, Lua, Hex Editing, Smali Editing and Reverse Engineering. 
+I know Lua, Hex Editing, Smali Editing and Reverse Engineering. 
 
 I'm obsessed with Networking. 
 I love making Multiplayer games and Mods. 
