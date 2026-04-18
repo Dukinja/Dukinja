@@ -23,16 +23,4 @@
 
 ## 👨‍💻 About Me
 
-Hi I'm a Developer and Modder. 
-I know Lua, Hex Editing, Smali Editing and Reverse Engineering. 
-
-I'm obsessed with Networking. 
-I love making Multiplayer games and Mods. 
-
-I am also interested in Electronics and Computer Hardware. 
-
-I Mod Swordigo, GTA and other games.
-
-I love Football. 
-I'm a CB and a CM.
-I also play as a CAM and a LB. 
+I like computers
